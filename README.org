@@ -1,0 +1,9 @@
+* native-lazy-seq
+
+Lazy sequence using user-extensible sequence protocol.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/kchanqvq/native-lazy-seq.git |
+| commit  | cb4c8b9                                             |
+| systems | native-lazy-seq                                     |
+|---------+-----------------------------------------------------|
